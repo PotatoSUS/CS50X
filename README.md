@@ -1,2 +1,2 @@
 # CS50X
-my repo for the cs50x things :D
+my repo for the Harvard CS50X things :D
